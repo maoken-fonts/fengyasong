@@ -20,7 +20,6 @@ jobs:
         python-version: "3.10"
     - name: Install sys tools/deps
       run: |
-        sudo pip install --upgrade pip
         sudo pip install gftools
 
     - name: Build font
