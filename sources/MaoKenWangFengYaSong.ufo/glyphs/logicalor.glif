@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="logicalor" format="2">
+  <advance width="848" height="1000" />
+  <unicode hex="2228" />
+  <outline>
+    <contour>
+      <point x="156" y="735" type="line" />
+      <point x="424" y="90" type="line" />
+      <point x="425" y="90" type="line" />
+      <point x="694" y="762" type="line" />
+      <point x="728" y="742" type="line" />
+      <point x="425" y="-12" type="line" />
+      <point x="424" y="-12" type="line" />
+      <point x="120" y="711" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

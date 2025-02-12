@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFE63" format="2">
+  <advance width="921" height="1000" />
+  <unicode hex="FE63" />
+  <outline>
+    <contour>
+      <point x="619" y="221" type="line" />
+      <point x="302" y="205" type="line" />
+      <point x="302" y="253" type="line" />
+      <point x="619" y="269" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

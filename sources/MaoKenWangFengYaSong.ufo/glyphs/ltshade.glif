@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="ltshade" format="2">
+  <advance width="800" height="1000" />
+  <unicode hex="2591" />
+  <outline>
+    <contour>
+      <point x="800" y="401" type="line" />
+      <point x="400" y="881" type="line" />
+      <point x="440" y="883" type="line" />
+      <point x="800" y="451" type="line" />
+    </contour>
+    <contour>
+      <point x="800" y="-99" type="line" />
+      <point x="0" y="861" type="line" />
+      <point x="40" y="863" type="line" />
+      <point x="800" y="-49" type="line" />
+    </contour>
+    <contour>
+      <point x="400" y="-119" type="line" />
+      <point x="0" y="361" type="line" />
+      <point x="0" y="411" type="line" />
+      <point x="440" y="-117" type="line" />
+    </contour>
+    <contour>
+      <point x="0" y="-139" type="line" />
+      <point x="0" y="-89" type="line" />
+      <point x="40" y="-137" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

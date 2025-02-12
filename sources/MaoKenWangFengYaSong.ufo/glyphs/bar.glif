@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="bar" format="2">
+  <advance width="277" height="1000" />
+  <unicode hex="007C" />
+  <outline>
+    <contour>
+      <point x="109" y="-280" type="line" />
+      <point x="109" y="837" type="line" />
+      <point x="167" y="840" type="line" />
+      <point x="167" y="-277" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

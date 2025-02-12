@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="325" height="1000" />
+  <unicode hex="005D" />
+  <outline>
+    <contour>
+      <point x="210" y="448" type="qcurve" smooth="yes" />
+      <point x="210" y="179" type="line" smooth="yes" />
+      <point x="210" y="-57" />
+      <point x="213" y="-175" type="qcurve" />
+      <point x="29" y="-184" type="line" />
+      <point x="29" y="-146" type="line" />
+      <point x="127" y="-129" type="line" />
+      <point x="129" y="-29" />
+      <point x="129" y="175" type="qcurve" smooth="yes" />
+      <point x="129" y="444" type="line" smooth="yes" />
+      <point x="129" y="646" />
+      <point x="127" y="748" type="qcurve" />
+      <point x="29" y="755" type="line" />
+      <point x="29" y="793" type="line" />
+      <point x="213" y="802" type="line" />
+      <point x="210" y="687" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

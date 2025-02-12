@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFE4E" format="2">
+  <advance width="881" height="1000" />
+  <unicode hex="FE4E" />
+  <outline>
+    <contour>
+      <point x="204" y="-28" type="line" />
+      <point x="204" y="12" type="line" />
+      <point x="380" y="21" type="line" />
+      <point x="380" y="-19" type="line" />
+    </contour>
+    <contour>
+      <point x="503" y="-13" type="line" />
+      <point x="503" y="27" type="line" />
+      <point x="679" y="36" type="line" />
+      <point x="679" y="-4" type="line" />
+    </contour>
+    <contour>
+      <point x="454" y="20" type="qcurve" smooth="yes" />
+      <point x="459" y="14" />
+      <point x="459" y="-6" />
+      <point x="449" y="-20" />
+      <point x="433" y="-21" />
+      <point x="422" y="-8" />
+      <point x="422" y="12" />
+      <point x="433" y="25" />
+      <point x="449" y="26" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

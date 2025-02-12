@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="diamond" format="2">
+  <advance width="856" height="1000" />
+  <unicode hex="2666" />
+  <outline>
+    <contour>
+      <point x="139" y="365" type="qcurve" />
+      <point x="203" y="444" />
+      <point x="379" y="732" />
+      <point x="428" y="850" type="qcurve" />
+      <point x="478" y="737" />
+      <point x="654" y="467" />
+      <point x="717" y="394" type="qcurve" />
+      <point x="655" y="315" />
+      <point x="479" y="28" />
+      <point x="428" y="-90" type="qcurve" />
+      <point x="379" y="22" />
+      <point x="203" y="292" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

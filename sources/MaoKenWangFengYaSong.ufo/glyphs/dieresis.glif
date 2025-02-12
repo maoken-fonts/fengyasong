@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="369" height="1000" />
+  <unicode hex="00A8" />
+  <outline>
+    <contour>
+      <point x="285" y="669" type="qcurve" smooth="yes" />
+      <point x="261" y="668" />
+      <point x="227" y="703" />
+      <point x="227" y="763" />
+      <point x="261" y="803" />
+      <point x="308" y="805" />
+      <point x="341" y="769" />
+      <point x="341" y="709" />
+      <point x="308" y="670" />
+    </contour>
+    <contour>
+      <point x="84" y="659" type="qcurve" smooth="yes" />
+      <point x="61" y="658" />
+      <point x="28" y="693" />
+      <point x="28" y="753" />
+      <point x="61" y="793" />
+      <point x="84" y="794" type="qcurve" smooth="yes" />
+      <point x="108" y="795" />
+      <point x="141" y="759" />
+      <point x="141" y="729" type="qcurve" smooth="yes" />
+      <point x="141" y="698" />
+      <point x="108" y="660" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

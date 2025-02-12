@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="292" height="1000" />
+  <unicode hex="003B" />
+  <outline>
+    <contour>
+      <point x="140" y="389" type="qcurve" />
+      <point x="112" y="388" />
+      <point x="74" y="434" />
+      <point x="74" y="467" type="qcurve" smooth="yes" />
+      <point x="74" y="502" />
+      <point x="112" y="553" />
+      <point x="140" y="554" type="qcurve" />
+      <point x="167" y="556" />
+      <point x="206" y="509" />
+      <point x="206" y="474" type="qcurve" smooth="yes" />
+      <point x="206" y="441" />
+      <point x="167" y="391" />
+    </contour>
+    <contour>
+      <point x="151" y="-34" type="qcurve" />
+      <point x="115" y="-8" type="line" />
+      <point x="74" y="20" />
+      <point x="74" y="68" type="qcurve" smooth="yes" />
+      <point x="74" y="102" />
+      <point x="109" y="149" />
+      <point x="137" y="150" type="qcurve" />
+      <point x="169" y="152" />
+      <point x="192" y="125" type="qcurve" />
+      <point x="204" y="91" />
+      <point x="204" y="46" type="qcurve" smooth="yes" />
+      <point x="204" y="-49" />
+      <point x="107" y="-200" />
+      <point x="41" y="-234" type="qcurve" />
+      <point x="31" y="-206" type="line" />
+      <point x="81" y="-169" />
+      <point x="139" y="-91" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

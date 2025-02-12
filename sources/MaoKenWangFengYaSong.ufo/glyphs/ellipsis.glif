@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="843" height="1000" />
+  <unicode hex="2026" />
+  <unicode hex="22EF" />
+  <outline>
+    <contour>
+      <point x="188" y="327" type="qcurve" smooth="yes" />
+      <point x="174" y="309" />
+      <point x="136" y="307" />
+      <point x="108" y="341" />
+      <point x="108" y="389" />
+      <point x="136" y="425" />
+      <point x="174" y="427" />
+      <point x="202" y="393" />
+      <point x="202" y="345" />
+    </contour>
+    <contour>
+      <point x="455" y="340.5" type="qcurve" smooth="yes" />
+      <point x="441" y="322" />
+      <point x="402" y="320" />
+      <point x="374" y="354" />
+      <point x="374" y="402" />
+      <point x="402" y="438" />
+      <point x="441" y="440" />
+      <point x="469" y="407" />
+      <point x="469" y="359" />
+    </contour>
+    <contour>
+      <point x="721" y="354" type="qcurve" smooth="yes" />
+      <point x="707" y="336" />
+      <point x="669" y="334" />
+      <point x="641" y="367" />
+      <point x="641" y="415" />
+      <point x="669" y="452" />
+      <point x="707" y="454" />
+      <point x="735" y="420" />
+      <point x="735" y="372" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

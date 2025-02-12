@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="angleleft" format="2">
+  <advance width="912" height="1000" />
+  <unicode hex="2329" />
+  <unicode hex="3008" />
+  <outline>
+    <contour>
+      <point x="882" y="848" type="line" />
+      <point x="572" y="386" type="line" />
+      <point x="882" y="-44" type="line" />
+      <point x="858" y="-71" type="line" />
+      <point x="530" y="384" type="line" />
+      <point x="858" y="873" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

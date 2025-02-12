@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFE19" format="2">
+  <advance width="976" height="1000" />
+  <unicode hex="FE19" />
+  <outline>
+    <contour>
+      <point x="455" y="670.5" type="qcurve" smooth="yes" />
+      <point x="441" y="687" />
+      <point x="441" y="735" />
+      <point x="469" y="772" />
+      <point x="507" y="773" />
+      <point x="535" y="740" />
+      <point x="535" y="692" />
+      <point x="507" y="655" />
+      <point x="469" y="654" />
+    </contour>
+    <contour>
+      <point x="455" y="337.5" type="qcurve" smooth="yes" />
+      <point x="441" y="354" />
+      <point x="441" y="402" />
+      <point x="469" y="439" />
+      <point x="507" y="440" />
+      <point x="535" y="407" />
+      <point x="535" y="359" />
+      <point x="507" y="322" />
+      <point x="469" y="321" />
+    </contour>
+    <contour>
+      <point x="455" y="4.5" type="qcurve" smooth="yes" />
+      <point x="441" y="21" />
+      <point x="441" y="69" />
+      <point x="469" y="106" />
+      <point x="507" y="107" />
+      <point x="535" y="74" />
+      <point x="535" y="26" />
+      <point x="507" y="-11" />
+      <point x="469" y="-12" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

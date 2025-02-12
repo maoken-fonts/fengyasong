@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni309A" format="2">
+  <unicode hex="309A" />
+  <outline>
+    <contour>
+      <point x="-66.5" y="667.5" type="qcurve" smooth="yes" />
+      <point x="-95" y="631" />
+      <point x="-175" y="627" />
+      <point x="-232" y="695" />
+      <point x="-232" y="795" />
+      <point x="-175" y="869" />
+      <point x="-95" y="873" />
+      <point x="-38" y="804" />
+      <point x="-38" y="704" />
+    </contour>
+    <contour>
+      <point x="-135" y="829" type="qcurve" />
+      <point x="-162" y="827" />
+      <point x="-198" y="779" />
+      <point x="-198" y="713" />
+      <point x="-162" y="669" />
+      <point x="-135" y="671" type="qcurve" />
+      <point x="-110" y="672" />
+      <point x="-73" y="720" />
+      <point x="-73" y="786" />
+      <point x="-110" y="830" />
+    </contour>
+  </outline>
+  <advance width="0" height="1000" />
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

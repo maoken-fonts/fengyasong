@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni3023" format="2">
+  <advance width="876" height="1000" />
+  <unicode hex="3023" />
+  <outline>
+    <contour>
+      <point x="391" y="722" type="line" />
+      <point x="484" y="712" type="line" />
+      <point x="484" y="57" type="line" smooth="yes" />
+      <point x="484" y="48" />
+      <point x="433" y="18" />
+      <point x="408" y="16" type="qcurve" smooth="yes" />
+      <point x="391" y="15" type="line" />
+    </contour>
+    <contour>
+      <point x="591" y="827" type="line" />
+      <point x="686" y="816" type="line" />
+      <point x="686" y="-18" type="line" smooth="yes" />
+      <point x="686" y="-29" />
+      <point x="635" y="-61" />
+      <point x="610" y="-63" type="qcurve" />
+      <point x="591" y="-63" type="line" />
+    </contour>
+    <contour>
+      <point x="187" y="773" type="line" />
+      <point x="281" y="763" type="line" />
+      <point x="281" y="-9" type="line" smooth="yes" />
+      <point x="281" y="-19" />
+      <point x="230" y="-50" />
+      <point x="205" y="-51" type="qcurve" smooth="yes" />
+      <point x="187" y="-52" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

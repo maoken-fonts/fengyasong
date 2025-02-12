@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="omicron" format="2">
+  <advance width="496" height="1000" />
+  <unicode hex="03BF" />
+  <outline>
+    <contour>
+      <point x="243" y="-16" type="qcurve" smooth="yes" />
+      <point x="154" y="-20" />
+      <point x="40" y="121" />
+      <point x="40" y="257" type="qcurve" smooth="yes" />
+      <point x="40" y="389" />
+      <point x="162" y="547" />
+      <point x="252" y="551" type="qcurve" smooth="yes" />
+      <point x="343" y="556" />
+      <point x="454" y="417" />
+      <point x="454" y="285" type="qcurve" smooth="yes" />
+      <point x="454" y="149" />
+      <point x="331" y="-12" />
+    </contour>
+    <contour>
+      <point x="258" y="22" type="qcurve" smooth="yes" />
+      <point x="303" y="24" />
+      <point x="353" y="125" />
+      <point x="353" y="204" type="qcurve" smooth="yes" />
+      <point x="353" y="351" />
+      <point x="289" y="516" />
+      <point x="238" y="514" type="qcurve" smooth="yes" />
+      <point x="194" y="512" />
+      <point x="141" y="409" />
+      <point x="141" y="330" type="qcurve" smooth="yes" />
+      <point x="141" y="178" />
+      <point x="207" y="19" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

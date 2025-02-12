@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni56FD" format="2">
+  <advance width="833" height="1000" />
+  <unicode hex="56FD" />
+  <outline>
+    <contour>
+      <point x="752" y="800" type="qcurve" />
+      <point x="753" y="799" type="line" />
+      <point x="753" y="-29" type="line" smooth="yes" />
+      <point x="753" y="-44" />
+      <point x="695" y="-69" type="qcurve" />
+      <point x="678" y="-73" />
+      <point x="667" y="-73" type="qcurve" smooth="yes" />
+      <point x="659" y="-73" type="line" />
+      <point x="658" y="-73" />
+      <point x="658" y="-72" type="qcurve" />
+      <point x="658" y="3" type="line" />
+      <point x="174" y="-21" type="line" />
+      <point x="174" y="-59" type="line" smooth="yes" />
+      <point x="174" y="-75" />
+      <point x="135" y="-97" type="qcurve" smooth="yes" />
+      <point x="117" y="-107" />
+      <point x="81" y="-107" type="qcurve" />
+      <point x="81" y="766" type="line" />
+      <point x="81" y="768" />
+      <point x="138" y="769" type="qcurve" />
+      <point x="211" y="774" />
+    </contour>
+    <contour>
+      <point x="174" y="742" type="line" />
+      <point x="174" y="9" type="line" />
+      <point x="650" y="33" />
+      <point x="658" y="33" type="qcurve" />
+      <point x="658" y="766" type="line" />
+    </contour>
+    <contour>
+      <point x="632" y="641" type="qcurve" />
+      <point x="632" y="639" type="line" />
+      <point x="632" y="614" type="line" />
+      <point x="632" y="612" />
+      <point x="576" y="610" type="qcurve" smooth="yes" />
+      <point x="542" y="608" />
+      <point x="453" y="604" type="qcurve" />
+      <point x="453" y="417" type="line" />
+      <point x="458" y="418" />
+      <point x="612" y="425" type="qcurve" />
+      <point x="612" y="424" type="line" />
+      <point x="612" y="396" type="line" />
+      <point x="612" y="395" />
+      <point x="611" y="395" type="qcurve" />
+      <point x="453" y="388" type="line" />
+      <point x="453" y="161" type="line" />
+      <point x="454" y="161" type="line" />
+      <point x="639" y="172" />
+      <point x="648" y="172" type="qcurve" />
+      <point x="648" y="144" type="line" smooth="yes" />
+      <point x="648" y="141" />
+      <point x="594" y="140" type="qcurve" />
+      <point x="587" y="139" />
+      <point x="205" y="120" type="qcurve" />
+      <point x="197" y="148" type="line" />
+      <point x="199" y="149" />
+      <point x="201" y="149" type="qcurve" />
+      <point x="366" y="157" type="line" />
+      <point x="366" y="383" type="line" />
+      <point x="256" y="378" />
+      <point x="248" y="378" type="qcurve" />
+      <point x="247" y="377" />
+      <point x="246" y="377" type="qcurve" />
+      <point x="240" y="399" />
+      <point x="239" y="406" type="qcurve" />
+      <point x="244" y="408" />
+      <point x="366" y="413" type="qcurve" />
+      <point x="366" y="599" type="line" />
+      <point x="214" y="593" type="line" />
+      <point x="213" y="593" />
+      <point x="208" y="619" type="qcurve" />
+      <point x="624" y="640" />
+      <point x="631" y="640" type="qcurve" />
+      <point x="631" y="641" />
+    </contour>
+    <contour>
+      <point x="492" y="370" type="qcurve" />
+      <point x="548" y="357" />
+      <point x="573" y="331" type="qcurve" smooth="yes" />
+      <point x="600" y="302" />
+      <point x="600" y="277" type="qcurve" />
+      <point x="600" y="276" type="line" />
+      <point x="600" y="239" />
+      <point x="567" y="225" type="qcurve" />
+      <point x="556" y="223" type="line" />
+      <point x="539" y="223" />
+      <point x="527" y="238" type="qcurve" />
+      <point x="527" y="271" />
+      <point x="505" y="324" type="qcurve" smooth="yes" />
+      <point x="498" y="340" />
+      <point x="483" y="364" type="qcurve" />
+      <point x="491" y="370" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

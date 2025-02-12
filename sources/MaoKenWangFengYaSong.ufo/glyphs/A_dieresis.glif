@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="601" height="1000" />
+  <unicode hex="00C4" />
+  <outline>
+    <contour>
+      <point x="446" y="837.5" type="qcurve" smooth="yes" />
+      <point x="430" y="819" />
+      <point x="384" y="817" />
+      <point x="352" y="851" />
+      <point x="352" y="880" type="qcurve" smooth="yes" />
+      <point x="352" y="910" />
+      <point x="384" y="948" />
+      <point x="430" y="950" />
+      <point x="462" y="915" />
+      <point x="462" y="885" type="qcurve" smooth="yes" />
+      <point x="462" y="856" />
+    </contour>
+    <contour>
+      <point x="196" y="807" type="qcurve" smooth="yes" />
+      <point x="174" y="806" />
+      <point x="141" y="840" />
+      <point x="141" y="898" />
+      <point x="174" y="937" />
+      <point x="196" y="938" type="qcurve" smooth="yes" />
+      <point x="220" y="939" />
+      <point x="252" y="905" />
+      <point x="252" y="875" type="qcurve" smooth="yes" />
+      <point x="252" y="846" />
+      <point x="220" y="808" />
+    </contour>
+    <contour>
+      <point x="177" y="270" type="line" />
+      <point x="350" y="279" type="line" />
+      <point x="262" y="617" type="line" />
+    </contour>
+    <contour>
+      <point x="524" y="55" type="line" />
+      <point x="591" y="49" type="line" />
+      <point x="591" y="14" type="line" />
+      <point x="332" y="1" type="line" />
+      <point x="332" y="36" type="line" />
+      <point x="410" y="51" type="line" />
+      <point x="360" y="242" type="line" />
+      <point x="168" y="233" type="line" />
+      <point x="121" y="37" type="line" />
+      <point x="200" y="29" type="line" />
+      <point x="200" y="-6" type="line" />
+      <point x="12" y="-15" type="line" />
+      <point x="12" y="20" type="line" />
+      <point x="81" y="35" type="line" />
+      <point x="264" y="743" type="line" />
+      <point x="333" y="746" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

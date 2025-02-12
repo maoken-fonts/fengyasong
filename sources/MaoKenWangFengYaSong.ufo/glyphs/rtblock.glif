@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="rtblock" format="2">
+  <advance width="900" height="1000" />
+  <unicode hex="2590" />
+  <outline>
+    <contour>
+      <point x="500" y="-117" type="line" />
+      <point x="500" y="883" type="line" />
+      <point x="900" y="903" type="line" />
+      <point x="900" y="-97" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

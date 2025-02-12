@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="filledbox" format="2">
+  <advance width="840" height="1000" />
+  <unicode hex="25A0" />
+  <outline>
+    <contour>
+      <point x="740" y="-3" type="line" />
+      <point x="100" y="-35" type="line" />
+      <point x="100" y="765" type="line" />
+      <point x="740" y="797" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

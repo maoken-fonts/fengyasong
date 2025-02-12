@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="bullet" format="2">
+  <advance width="968" height="1000" />
+  <unicode hex="2022" />
+  <unicode hex="2027" />
+  <outline>
+    <contour>
+      <point x="439.5" y="322" type="qcurve" smooth="yes" />
+      <point x="421" y="344" />
+      <point x="421" y="410" />
+      <point x="458" y="458" />
+      <point x="511" y="460" />
+      <point x="548" y="416" />
+      <point x="548" y="350" />
+      <point x="511" y="302" />
+      <point x="458" y="300" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

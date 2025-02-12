@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="propersubset" format="2">
+  <advance width="854" height="1000" />
+  <unicode hex="2282" />
+  <outline>
+    <contour>
+      <point x="211" y="130.5" type="qcurve" smooth="yes" />
+      <point x="135" y="215" />
+      <point x="135" y="491" />
+      <point x="287" y="676" />
+      <point x="430" y="683" type="qcurve" smooth="yes" />
+      <point x="719" y="697" type="line" />
+      <point x="719" y="649" type="line" />
+      <point x="430" y="635" type="line" />
+      <point x="306" y="628" />
+      <point x="174" y="476" />
+      <point x="174" y="234" />
+      <point x="306" y="94" />
+      <point x="430" y="101" type="qcurve" />
+      <point x="719" y="115" type="line" />
+      <point x="719" y="67" type="line" />
+      <point x="430" y="53" type="line" smooth="yes" />
+      <point x="287" y="46" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

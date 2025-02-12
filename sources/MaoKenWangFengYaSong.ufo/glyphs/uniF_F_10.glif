@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFF10" format="2">
+  <advance width="880" height="1000" />
+  <unicode hex="FF10" />
+  <outline>
+    <contour>
+      <point x="323" y="369" type="qcurve" smooth="yes" />
+      <point x="323" y="13" />
+      <point x="439" y="19" type="qcurve" smooth="yes" />
+      <point x="492" y="22" />
+      <point x="558" y="191" />
+      <point x="558" y="381" type="qcurve" smooth="yes" />
+      <point x="558" y="572" />
+      <point x="492" y="735" />
+      <point x="439" y="732" type="qcurve" smooth="yes" />
+      <point x="323" y="726" />
+    </contour>
+    <contour>
+      <point x="350.5" y="741" type="qcurve" smooth="yes" />
+      <point x="392" y="766" />
+      <point x="487" y="770" />
+      <point x="571" y="729" />
+      <point x="639" y="643" />
+      <point x="680" y="489" />
+      <point x="680" y="387" type="qcurve" smooth="yes" />
+      <point x="680" y="286" />
+      <point x="639" y="128" />
+      <point x="571" y="33" />
+      <point x="487" y="-16" />
+      <point x="392" y="-20" />
+      <point x="309" y="20" />
+      <point x="240" y="108" />
+      <point x="200" y="262" />
+      <point x="200" y="363" type="qcurve" smooth="yes" />
+      <point x="200" y="465" />
+      <point x="240" y="623" />
+      <point x="309" y="716" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

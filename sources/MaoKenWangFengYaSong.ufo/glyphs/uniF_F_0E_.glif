@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFF0E" format="2">
+  <advance width="965" height="1000" />
+  <unicode hex="FF0E" />
+  <outline>
+    <contour>
+      <point x="76" y="-22" type="qcurve" smooth="yes" />
+      <point x="56" y="2" />
+      <point x="56" y="72" />
+      <point x="96" y="125" />
+      <point x="154" y="128" />
+      <point x="194" y="80" />
+      <point x="194" y="44" type="qcurve" smooth="yes" />
+      <point x="194" y="9" />
+      <point x="154" y="-43" />
+      <point x="96" y="-46" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

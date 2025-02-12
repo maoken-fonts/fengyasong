@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni5196" format="2">
+  <advance width="818" height="1000" />
+  <unicode hex="5196" />
+  <outline>
+    <contour>
+      <point x="753" y="569" type="line" />
+      <point x="753" y="513" type="line" />
+      <point x="698" y="418" />
+      <point x="631" y="346" type="qcurve" />
+      <point x="624" y="352" type="line" />
+      <point x="638" y="427" />
+      <point x="649" y="535" type="qcurve" />
+      <point x="159" y="511" type="line" />
+      <point x="171" y="392" />
+      <point x="116" y="336" type="qcurve" />
+      <point x="96" y="313" />
+      <point x="41" y="322" />
+      <point x="31" y="350" type="qcurve" />
+      <point x="24" y="377" />
+      <point x="41" y="424" />
+      <point x="61" y="439" type="qcurve" smooth="yes" />
+      <point x="88" y="459" />
+      <point x="109" y="503" type="qcurve" smooth="yes" />
+      <point x="131" y="548" />
+      <point x="130" y="596" type="qcurve" />
+      <point x="141" y="597" type="line" />
+      <point x="149" y="574" />
+      <point x="155" y="539" type="qcurve" />
+      <point x="643" y="564" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

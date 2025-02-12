@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFFDC" format="2">
+  <advance width="925" height="1000" />
+  <unicode hex="FFDC" />
+  <outline>
+    <contour>
+      <point x="473" y="-96" type="qcurve" />
+      <point x="421" y="-99" type="line" />
+      <point x="417" y="-74" />
+      <point x="411" y="79" />
+      <point x="411" y="120" type="qcurve" smooth="yes" />
+      <point x="411" y="750" type="line" />
+      <point x="394" y="785" />
+      <point x="346" y="806" type="qcurve" />
+      <point x="356" y="842" type="line" />
+      <point x="359" y="849" />
+      <point x="367" y="849" type="qcurve" smooth="yes" />
+      <point x="396" y="849" />
+      <point x="474" y="834" />
+      <point x="496" y="824" type="qcurve" />
+      <point x="508" y="818" />
+      <point x="507" y="797" type="qcurve" smooth="yes" />
+      <point x="504" y="737" type="line" />
+      <point x="504" y="161" type="line" smooth="yes" />
+      <point x="504" y="106" />
+      <point x="487" y="-49" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

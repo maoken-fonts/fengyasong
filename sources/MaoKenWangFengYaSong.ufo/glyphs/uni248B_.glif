@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni248B" format="2">
+  <advance width="844" height="1000" />
+  <unicode hex="248B" />
+  <outline>
+    <contour>
+      <point x="154" y="266" type="line" />
+      <point x="360" y="277" type="line" />
+      <point x="360" y="645" type="line" />
+    </contour>
+    <contour>
+      <point x="461" y="756" type="line" />
+      <point x="461" y="282" type="line" />
+      <point x="563" y="287" type="line" />
+      <point x="563" y="189" type="line" />
+      <point x="461" y="184" type="line" />
+      <point x="461" y="2" type="line" />
+      <point x="360" y="-3" type="line" />
+      <point x="360" y="179" type="line" />
+      <point x="111" y="166" type="line" />
+      <point x="111" y="252" type="line" />
+      <point x="382" y="752" type="line" />
+    </contour>
+    <contour>
+      <point x="617.5" y="139" type="qcurve" smooth="yes" />
+      <point x="637" y="165" />
+      <point x="694" y="167" />
+      <point x="734" y="119" />
+      <point x="734" y="84" type="qcurve" smooth="yes" />
+      <point x="734" y="50" />
+      <point x="694" y="-1" />
+      <point x="637" y="-3" />
+      <point x="598" y="44" />
+      <point x="598" y="78" type="qcurve" smooth="yes" />
+      <point x="598" y="113" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="theta" format="2">
+  <advance width="480" height="1000" />
+  <unicode hex="03B8" />
+  <outline>
+    <contour>
+      <point x="339" y="387" type="qcurve" />
+      <point x="140" y="377" type="line" />
+      <point x="143" y="192" />
+      <point x="200" y="18" />
+      <point x="245" y="20" type="qcurve" smooth="yes" />
+      <point x="276" y="22" />
+      <point x="314" y="81" />
+      <point x="339" y="246" />
+    </contour>
+    <contour>
+      <point x="140" y="423" type="qcurve" />
+      <point x="339" y="433" type="line" />
+      <point x="336" y="612" />
+      <point x="282" y="785" />
+      <point x="240" y="783" type="qcurve" smooth="yes" />
+      <point x="208" y="782" />
+      <point x="167" y="723" />
+      <point x="141" y="561" />
+    </contour>
+    <contour>
+      <point x="101" y="708" type="qcurve" smooth="yes" />
+      <point x="155" y="815" />
+      <point x="334" y="824" />
+      <point x="434" y="626" />
+      <point x="434" y="415" type="qcurve" smooth="yes" />
+      <point x="434" y="196" />
+      <point x="328" y="-11" />
+      <point x="148" y="-20" />
+      <point x="47" y="170" />
+      <point x="47" y="379" type="qcurve" smooth="yes" />
+      <point x="47" y="601" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

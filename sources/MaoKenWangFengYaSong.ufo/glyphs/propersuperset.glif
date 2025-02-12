@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="propersuperset" format="2">
+  <advance width="854" height="1000" />
+  <unicode hex="2283" />
+  <outline>
+    <contour>
+      <point x="425" y="683" type="line" smooth="yes" />
+      <point x="568" y="690" />
+      <point x="719" y="521" />
+      <point x="719" y="245" />
+      <point x="568" y="60" />
+      <point x="425" y="53" type="qcurve" smooth="yes" />
+      <point x="135" y="39" type="line" />
+      <point x="135" y="87" type="line" />
+      <point x="425" y="101" type="line" smooth="yes" />
+      <point x="549" y="107" />
+      <point x="681" y="260" />
+      <point x="681" y="502" />
+      <point x="549" y="641" />
+      <point x="425" y="635" type="qcurve" smooth="yes" />
+      <point x="135" y="621" type="line" />
+      <point x="135" y="669" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

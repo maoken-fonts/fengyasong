@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="perpendicular" format="2">
+  <advance width="840" height="1000" />
+  <unicode hex="22A5" />
+  <outline>
+    <contour>
+      <point x="740" y="39" type="line" />
+      <point x="100" y="7" type="line" />
+      <point x="100" y="53" type="line" />
+      <point x="400" y="68" type="line" />
+      <point x="400" y="711" type="line" />
+      <point x="439" y="712" type="line" />
+      <point x="439" y="69" type="line" />
+      <point x="740" y="85" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

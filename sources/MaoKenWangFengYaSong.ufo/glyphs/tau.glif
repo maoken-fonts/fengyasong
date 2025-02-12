@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="tau" format="2">
+  <advance width="435" height="1000" />
+  <unicode hex="03C4" />
+  <outline>
+    <contour>
+      <point x="239" y="439" type="line" />
+      <point x="243" y="169" type="line" />
+      <point x="245" y="117" />
+      <point x="271" y="76" />
+      <point x="297" y="77" type="qcurve" smooth="yes" />
+      <point x="320" y="78" />
+      <point x="340" y="93" type="qcurve" />
+      <point x="348" y="74" type="line" />
+      <point x="320" y="-11" />
+      <point x="252" y="-14" type="qcurve" smooth="yes" />
+      <point x="158" y="-19" />
+      <point x="158" y="121" type="qcurve" smooth="yes" />
+      <point x="158" y="215" />
+      <point x="192" y="436" type="qcurve" />
+      <point x="20" y="406" type="line" />
+      <point x="15" y="439" type="line" />
+      <point x="46" y="489" />
+      <point x="129" y="534" />
+      <point x="202" y="537" type="qcurve" smooth="yes" />
+      <point x="406" y="547" type="line" />
+      <point x="410" y="441" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="minute" format="2">
+  <advance width="252" height="1000" />
+  <unicode hex="2032" />
+  <outline>
+    <contour>
+      <point x="78" y="458" type="line" />
+      <point x="85" y="799" type="line" />
+      <point x="107" y="819" />
+      <point x="133" y="820" type="qcurve" smooth="yes" />
+      <point x="157" y="821" />
+      <point x="184" y="789" />
+      <point x="184" y="760" type="qcurve" smooth="yes" />
+      <point x="184" y="721" />
+      <point x="135" y="559" type="qcurve" smooth="yes" />
+      <point x="121" y="513" />
+      <point x="101" y="457" type="qcurve" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="less" format="2">
+  <advance width="505" height="1000" />
+  <unicode hex="003C" />
+  <outline>
+    <contour>
+      <point x="440" y="599" type="line" />
+      <point x="101" y="359" type="line" />
+      <point x="440" y="152" type="line" />
+      <point x="420" y="104" type="line" />
+      <point x="52" y="337" type="line" />
+      <point x="52" y="376" type="line" />
+      <point x="420" y="645" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

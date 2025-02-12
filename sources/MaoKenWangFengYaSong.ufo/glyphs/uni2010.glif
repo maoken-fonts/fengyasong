@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni2010" format="2">
+  <advance width="950" height="1000" />
+  <unicode hex="2010" />
+  <outline>
+    <contour>
+      <point x="575" y="366" type="line" />
+      <point x="375" y="356" type="line" />
+      <point x="375" y="396" type="line" />
+      <point x="575" y="406" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

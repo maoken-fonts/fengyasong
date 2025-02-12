@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni830D" format="2">
+  <advance width="814" height="1000" />
+  <unicode hex="830D" />
+  <outline>
+    <contour>
+      <point x="420" y="335" type="line" />
+      <point x="263" y="327" type="line" />
+      <point x="263" y="146" type="line" />
+      <point x="420" y="154" type="line" />
+    </contour>
+    <contour>
+      <point x="612" y="527" type="line" />
+      <point x="711" y="532" type="line" />
+      <point x="711" y="484" type="line" />
+      <point x="704" y="246" />
+      <point x="687" y="127" type="qcurve" smooth="yes" />
+      <point x="671" y="8" />
+      <point x="637" y="-32" type="qcurve" smooth="yes" />
+      <point x="596" y="-79" />
+      <point x="527" y="-82" type="qcurve" />
+      <point x="527" y="-23" />
+      <point x="512" y="-5" type="qcurve" smooth="yes" />
+      <point x="491" y="21" />
+      <point x="435" y="33" type="qcurve" />
+      <point x="436" y="46" type="line" />
+      <point x="526" y="42" />
+      <point x="541" y="43" type="qcurve" smooth="yes" />
+      <point x="560" y="44" />
+      <point x="570" y="57" type="qcurve" />
+      <point x="607" y="99" />
+      <point x="621" y="498" type="qcurve" />
+      <point x="247" y="479" type="line" />
+      <point x="221" y="430" />
+      <point x="193" y="389" type="qcurve" />
+      <point x="267" y="356" type="line" />
+      <point x="412" y="364" type="line" />
+      <point x="510" y="369" type="line" />
+      <point x="510" y="325" type="line" />
+      <point x="510" y="111" type="line" smooth="yes" />
+      <point x="510" y="107" />
+      <point x="498" y="98" type="qcurve" />
+      <point x="486" y="90" />
+      <point x="467" y="84" type="qcurve" />
+      <point x="450" y="77" />
+      <point x="435" y="76" type="qcurve" smooth="yes" />
+      <point x="420" y="75" type="line" />
+      <point x="420" y="125" type="line" />
+      <point x="263" y="117" type="line" />
+      <point x="263" y="72" type="line" smooth="yes" />
+      <point x="263" y="63" />
+      <point x="237" y="49" type="qcurve" smooth="yes" />
+      <point x="212" y="36" />
+      <point x="187" y="34" type="qcurve" />
+      <point x="174" y="34" type="line" />
+      <point x="174" y="363" type="line" />
+      <point x="115" y="284" />
+      <point x="46" y="231" type="qcurve" />
+      <point x="37" y="240" type="line" />
+      <point x="82" y="311" />
+      <point x="123" y="415" type="qcurve" smooth="yes" />
+      <point x="164" y="519" />
+      <point x="188" y="628" type="qcurve" />
+      <point x="260" y="598" type="line" />
+      <point x="260" y="689" type="line" />
+      <point x="49" y="679" type="line" />
+      <point x="42" y="706" type="line" />
+      <point x="260" y="717" type="line" />
+      <point x="260" y="841" type="line" />
+      <point x="355" y="833" type="line" />
+      <point x="355" y="612" type="line" smooth="yes" />
+      <point x="355" y="607" />
+      <point x="313" y="589" />
+      <point x="281" y="585" type="qcurve" />
+      <point x="281" y="555" type="line" />
+      <point x="278" y="547" />
+      <point x="271" y="532" type="qcurve" smooth="yes" />
+      <point x="264" y="516" />
+      <point x="261" y="509" type="qcurve" />
+    </contour>
+    <contour>
+      <point x="783" y="743" type="line" />
+      <point x="783" y="715" type="line" />
+      <point x="565" y="704" type="line" />
+      <point x="565" y="624" type="line" smooth="yes" />
+      <point x="565" y="620" />
+      <point x="553" y="615" type="qcurve" />
+      <point x="542" y="609" />
+      <point x="523" y="604" type="qcurve" smooth="yes" />
+      <point x="504" y="599" />
+      <point x="487" y="599" type="qcurve" />
+      <point x="471" y="598" type="line" />
+      <point x="471" y="852" type="line" />
+      <point x="565" y="844" type="line" />
+      <point x="565" y="732" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

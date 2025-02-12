@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFF3D" format="2">
+  <advance width="950" height="1000" />
+  <unicode hex="FF3D" />
+  <outline>
+    <contour>
+      <point x="229" y="-103" type="line" />
+      <point x="29" y="-113" type="line" />
+      <point x="29" y="-74" type="line" />
+      <point x="197" y="-66" type="line" />
+      <point x="197" y="798" type="line" />
+      <point x="29" y="790" type="line" />
+      <point x="29" y="829" type="line" />
+      <point x="229" y="839" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

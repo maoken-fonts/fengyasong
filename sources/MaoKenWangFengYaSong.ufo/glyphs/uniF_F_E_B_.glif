@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFFEB" format="2">
+  <advance width="407" height="1000" />
+  <unicode hex="FFEB" />
+  <outline>
+    <contour>
+      <point x="21" y="347" type="line" />
+      <point x="21" y="395" type="line" />
+      <point x="314" y="410" type="line" />
+      <point x="244" y="486" />
+      <point x="192" y="591" type="qcurve" />
+      <point x="224" y="621" type="line" />
+      <point x="296" y="478" />
+      <point x="393" y="389" type="qcurve" />
+      <point x="296" y="292" />
+      <point x="224" y="141" type="qcurve" />
+      <point x="192" y="167" type="line" />
+      <point x="245" y="279" />
+      <point x="314" y="362" type="qcurve" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

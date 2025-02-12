@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uniFE3F" format="2">
+  <advance width="811" height="1000" />
+  <unicode hex="FE3F" />
+  <outline>
+    <contour>
+      <point x="763" y="-73" type="line" />
+      <point x="406" y="297" type="line" />
+      <point x="49" y="-109" type="line" />
+      <point x="28" y="-80" type="line" />
+      <point x="406" y="350" type="line" />
+      <point x="783" y="-42" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="uni2585" format="2">
+  <advance width="800" height="1000" />
+  <unicode hex="2585" />
+  <outline>
+    <contour>
+      <point x="0" y="-139" type="line" />
+      <point x="0" y="486" type="line" />
+      <point x="800" y="526" type="line" />
+      <point x="800" y="-99" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

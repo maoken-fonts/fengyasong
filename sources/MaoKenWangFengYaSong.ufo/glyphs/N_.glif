@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="N" format="2">
+  <advance width="666" height="1000" />
+  <unicode hex="004E" />
+  <outline>
+    <contour>
+      <point x="629" y="757" type="line" />
+      <point x="629" y="721" type="line" />
+      <point x="556" y="705" type="line" />
+      <point x="552" y="8" type="line" />
+      <point x="497" y="5" type="line" />
+      <point x="143" y="609" type="line" />
+      <point x="145" y="39" type="line" />
+      <point x="248" y="31" type="line" />
+      <point x="248" y="-4" type="line" />
+      <point x="32" y="-14" type="line" />
+      <point x="32" y="21" type="line" />
+      <point x="106" y="36" type="line" />
+      <point x="110" y="665" type="line" />
+      <point x="97" y="686" type="line" />
+      <point x="37" y="692" type="line" />
+      <point x="37" y="728" type="line" />
+      <point x="205" y="736" type="line" />
+      <point x="519" y="208" type="line" />
+      <point x="517" y="702" type="line" />
+      <point x="413" y="711" type="line" />
+      <point x="413" y="747" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

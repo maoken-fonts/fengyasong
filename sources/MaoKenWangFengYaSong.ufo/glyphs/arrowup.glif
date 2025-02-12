@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="arrowup" format="2">
+  <advance width="904" height="1000" />
+  <unicode hex="2191" />
+  <outline>
+    <contour>
+      <point x="471" y="-79" type="line" />
+      <point x="432" y="-80" type="line" />
+      <point x="432" y="732" type="line" />
+      <point x="368" y="621" />
+      <point x="284" y="540" type="qcurve" />
+      <point x="260" y="576" type="line" />
+      <point x="370" y="682" />
+      <point x="452" y="846" type="qcurve" />
+      <point x="533" y="691" />
+      <point x="644" y="595" type="qcurve" />
+      <point x="620" y="557" type="line" />
+      <point x="534" y="633" />
+      <point x="471" y="733" type="qcurve" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

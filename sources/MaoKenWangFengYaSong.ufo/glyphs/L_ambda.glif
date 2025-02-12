@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="590" height="1000" />
+  <unicode hex="039B" />
+  <outline>
+    <contour>
+      <point x="521" y="53" type="line" />
+      <point x="583" y="49" type="line" />
+      <point x="583" y="14" type="line" />
+      <point x="323" y="1" type="line" />
+      <point x="323" y="37" type="line" />
+      <point x="403" y="50" type="line" />
+      <point x="259" y="620" type="line" />
+      <point x="119" y="38" type="line" />
+      <point x="202" y="31" type="line" />
+      <point x="202" y="-5" type="line" />
+      <point x="4" y="-14" type="line" />
+      <point x="4" y="21" type="line" />
+      <point x="80" y="37" type="line" />
+      <point x="262" y="743" type="line" />
+      <point x="331" y="747" type="line" />
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

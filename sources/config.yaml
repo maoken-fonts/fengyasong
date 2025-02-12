@@ -1,0 +1,10 @@
+sources:
+  - MaoKenWangFengYaSong.ufo
+buildTTF: true
+buildOTF: false
+buildWebfont: false
+autohintTTF: false
+removeOutlineOverlaps: false
+
+outputDir: ../fonts
+ttDir: $outputDir/TTF
