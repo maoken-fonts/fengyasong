@@ -5,7 +5,7 @@ This is the public repository for MaoKenWang (Maoken.com) FengYaSong. Source fil
 
 ## 作者 Author
 
-此字体原为「新愚公」启动的计划，提供给[猫啃网](maoken.comhttps://)发布使用。现在字体已转交 @NightFurySL2001，只进行基本维护。  
+此字体原为「新愚公」启动的计划，提供给[猫啃网](https://maoken.com)发布使用。现在字体已转交 @NightFurySL2001，只进行基本维护。  
 This font project is originally initiated by "XinYuGong", and provided to [Maoken.com](https://maoken.com) to be redistributed for public usage. This font is now in low-maintenance mode maintained by @NightFurySL2001.
 
 此字体首发于 [https://www.maoken.com/freefonts/7026.html](https://www.maoken.com/freefonts/7026.html)。  
